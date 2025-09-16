@@ -1,0 +1,5 @@
+dataset/clean
+.venv/
+__pycache__/
+.vscode/
+.idea/
